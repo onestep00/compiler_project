@@ -1,0 +1,1 @@
+antlr4 -Dlanguage=JavaScript Cymbol.g4 -o parser
